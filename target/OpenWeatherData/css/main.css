@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+.form-control{
+    width: 30%; !important;
+    position: center;
+    margin-top: 65px;
+    margin-left: 475px;
+}
+
+.btn {
+    margin-left: 565px;
+}
+
+.alert {
+    width: 30%; !important;
+    height: 10%;
+    position: center;
+    margin-left: 475px;
+
+}
+
+#coverPhoto{
+    margin-left: 260px;
+    margin-top: 25px;
+}
