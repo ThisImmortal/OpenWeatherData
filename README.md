@@ -1,5 +1,5 @@
 # OpenWeatherData
-Get weather forecast of your city.
+Get weather forecast for your city.
 
 # Screenshots
 
