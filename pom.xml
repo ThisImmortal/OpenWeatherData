@@ -7,7 +7,7 @@
   <groupId>org.openweather</groupId>
   <artifactId>OpenWeatherData</artifactId>
   <version>1.0</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>OpenWeatherData Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
